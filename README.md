@@ -1,2 +1,2 @@
-Link to the calculator: https://github.com/RaikhanImanbay/Calculator-new-version-js
+Link to the calculator: https://raikhanimanbay.github.io/Calculator-new-version-js/
  
